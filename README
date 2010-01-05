@@ -38,6 +38,9 @@ command-line: 'cygcheck -l docbook-xml-simple10'.
 
 Port Notes:
 
+----- version 1.0-2 -----
+Fixed postinstall catalog registration.
+
 ----- version 1.0-1 -----
 Initial release for Cygwin 1.7.
 
